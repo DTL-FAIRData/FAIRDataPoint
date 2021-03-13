@@ -38,6 +38,8 @@ public class ShapeDTO {
 
     private String name;
 
+    private Boolean published;
+
     private ShapeType type;
 
     private String definition;

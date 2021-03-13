@@ -38,6 +38,8 @@ public class ShapeChangeDTO {
     @NotBlank
     private String name;
 
+    private Boolean published;
+
     private String definition;
 
 }
